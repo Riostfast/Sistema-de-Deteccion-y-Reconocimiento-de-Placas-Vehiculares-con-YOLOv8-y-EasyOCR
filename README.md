@@ -72,6 +72,14 @@ El sistema muestra:
 - Región recortada de la matrícula.
 - Texto reconocido automáticamente.
 
+# Ejemplos
+## Detección de placas
+![Detección de placa](images/original.jpg)
+![Detección de placa](images/Deteccion.png)
+
+## OCR
+![Placa recortada](images/textoyrecorte.png)
+
 # Autor
 
 ## Ricardo Guzman
