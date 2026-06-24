@@ -75,14 +75,19 @@ El sistema muestra:
 # Ejemplos
 ## Detección de placas
 <p align="center">
+  <img src="images/original1.jpg" width="45%">
+  <img src="images/deteccion1.png" width="45%">
+  
+</p>
+<p align="center">
   <img src="images/original.jpg" width="45%">
-  <img src="images/Deteccion.png" width="45%">
+  <img src="images/deteccion1.png" width="45%">
   
 </p>
 
 
 ## OCR
-<img src="images/textoyrecorte.png" width="700">
+<img src="images/Textoycorte1.png" width="700">
 
 # Autor
 
