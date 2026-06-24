@@ -80,14 +80,15 @@ El sistema muestra:
   
 </p>
 <p align="center">
-  <img src="images/original.jpg" width="45%">
-  <img src="images/deteccion1.png" width="45%">
+  <img src="images/original2.jpg" width="45%">
+  <img src="images/deteccion2.png" width="45%">
   
 </p>
 
 
 ## OCR
 <img src="images/Textoycorte1.png" width="700">
+<img src="images/Textoycorte2.png" width="700">
 
 # Autor
 
