@@ -1,4 +1,4 @@
-# Sistema-de-Deteccion-y-Reconocimiento-de-Placas-Vehiculares-con-YOLOv8-y-EasyOCR
+# Sistema de Deteccion y Reconocimiento de Placas Vehiculares con YOLOv8 y EasyOCR
 
 ## Descripción
 
