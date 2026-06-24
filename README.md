@@ -90,6 +90,12 @@ El sistema muestra:
 <img src="images/Textoycorte1.png" width="700">
 <img src="images/Textoycorte2.png" width="700">
 
+## Demostración
+
+<p align="center">
+  <img src="images/Demo.gif" width="50%">
+</p>
+
 # Autor
 
 ## Ricardo Guzman
