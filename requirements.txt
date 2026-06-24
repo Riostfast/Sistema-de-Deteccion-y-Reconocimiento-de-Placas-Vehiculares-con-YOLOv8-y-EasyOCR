@@ -1,0 +1,9 @@
+ultralytics
+easyocr
+opencv-python
+numpy
+matplotlib
+scikit-learn
+kagglehub
+pyyaml
+
