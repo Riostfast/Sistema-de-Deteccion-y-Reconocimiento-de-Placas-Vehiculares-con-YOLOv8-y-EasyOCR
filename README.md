@@ -94,7 +94,9 @@ El sistema muestra:
 
 <p align="center">
   <img src="images/Demo.gif" width="50%">
+  (Ver video con mejor calidad en la carpeta video/Demo.mp4)
 </p>
+
 
 # Autor
 
