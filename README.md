@@ -74,11 +74,15 @@ El sistema muestra:
 
 # Ejemplos
 ## Detección de placas
-![Detección de placa](images/original.jpg)
-![Detección de placa](images/Deteccion.png)
+<p align="center">
+  <img src="images/original.jpg" width="45%">
+  <img src="images/Deteccion.png" width="45%">
+  
+</p>
+
 
 ## OCR
-![Placa recortada](images/textoyrecorte.png)
+<img src="images/textoyrecorte.png" width="700">
 
 # Autor
 
